@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@600&family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 
 :root {
     --cor-primaria: #F9F5EB;
@@ -123,7 +124,7 @@ body {
 }
 
 
-@media (max-width: 1200px) {
+@media (max-width: 1200px){
     
     .cabecalho__menu {
         justify-content: center;
@@ -150,3 +151,4 @@ body {
     .apresentacao__links__botao {
         width: 80%;
     }
+}
